@@ -2,6 +2,7 @@
 
 const { Client } = require('pg')
 const config = require('config')
+const logger = require('../utils/logger')
 
 const client = new Client({
   user: config.services.postgres.user,
@@ -13,4 +14,21 @@ const client = new Client({
 
 client.connect()
 
-module.exports = client
+client.on('error', (err) => {
+  logger.error(`[postgres] Postgres has some error: ${err.stack}`)
+})
+
+client.on('end', () => {
+  logger.info('[postgres] Postgres is end.')
+  client.connect()
+})
+
+async function testConnect () {
+  await client.query('SELECT 1')
+  logger.info('[postgres] Postgres is ready.')
+}
+
+module.exports = {
+  client,
+  testConnect
+}

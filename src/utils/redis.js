@@ -3,6 +3,7 @@
 const redis = require('redis')
 const config = require('config')
 const { promisify } = require('util')
+const logger = require('../utils/logger')
 
 const redisConfig = {
   db: config.services.redis.db,
@@ -25,23 +26,23 @@ if (config.services.redis.port === undefined || config.services.redis.port === n
 let client = redis.createClient(redisConfig)
 
 client.on('connect', () => {
-  console.info('[Redis]Connect to redis.')
+  logger.info('[redis] Connect to redis.')
 })
 
 client.on('reconnecting', () => {
-  console.info('[Redis]Reconnecting to redis.')
+  logger.info('[redis] Reconnecting to redis.')
 })
 
 client.on('error', (err) => {
-  console.error(`[Redis]Redis has some error: ${err.stack}`)
+  logger.error(`[redis] Redis has some error: ${err.stack}`)
 })
 
 client.on('ready', () => {
-  console.info('[Redis]Redis is ready.')
+  logger.info('[redis] Redis is ready.')
 })
 
 client.on('end', () => {
-  console.info('[Redis]Redis is end.')
+  logger.info('[redis] Redis is end.')
   client = redis.createClient(redisConfig)
 })
 

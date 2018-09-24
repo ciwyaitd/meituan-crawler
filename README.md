@@ -12,3 +12,14 @@ This project depends on redis and postgres, you can run these by docker or your 
 docker-compose -f stack.yml up
 ```
 
+#### Usage
+
+```
+// install the dependencies
+npm install
+
+// create the database and tables by script
+npm run script
+```
+
+

@@ -4,7 +4,8 @@
   "description": "",
   "main": "app.js",
   "scripts": {
-    "start": "docker-compose -f stack.yml up && node app.js",
+    "script": "node scripts/exec.js",
+    "start": "node src/app.js",
     "test": "jest"
   },
   "keywords": [],
