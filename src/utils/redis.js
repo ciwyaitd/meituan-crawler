@@ -12,15 +12,15 @@ const redisConfig = {
 }
 
 if (config.services.redis.db === undefined || config.services.redis.db === null) {
-  throw new Error('Please set environment variable COURIERS_DATA_REDIS_DATABASE_NUMBER')
+  throw new Error('Please set environment variable REDIS_DATABASE')
 }
 
 if (config.services.redis.host === undefined || config.services.redis.host === null) {
-  throw new Error('Please set environment variable COURIERS_DATA_REDIS_HOST')
+  throw new Error('Please set environment variable REDIS_HOST')
 }
 
 if (config.services.redis.port === undefined || config.services.redis.port === null) {
-  throw new Error('Please set environment variable COURIERS_DATA_REDIS_PORT')
+  throw new Error('Please set environment variable REDIS_PORT')
 }
 
 let client = redis.createClient(redisConfig)

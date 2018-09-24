@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`utils.postgres should throw error when process.env.POSTGRES_DATABASE is undefined 1`] = `[Error: Please set environment variable POSTGRES_DATABASE]`;
+
+exports[`utils.postgres should throw error when process.env.POSTGRES_HOST is undefined 1`] = `[Error: Please set environment variable POSTGRES_HOST]`;
+
+exports[`utils.postgres should throw error when process.env.POSTGRES_PASSWORD is undefined 1`] = `[Error: Please set environment variable POSTGRES_PASSWORD]`;
+
+exports[`utils.postgres should throw error when process.env.POSTGRES_PORT is undefined 1`] = `[Error: Please set environment variable POSTGRES_PORT]`;
+
+exports[`utils.postgres should throw error when process.env.POSTGRES_USER is undefined 1`] = `[Error: Please set environment variable POSTGRES_USER]`;

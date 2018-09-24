@@ -2,36 +2,36 @@
 
 describe('utils.redis', () => {
   beforeEach(() => jest.resetModules())
-  it('should throw error when process.env.COURIERS_DATA_REDIS_DATABASE_NUMBER is undefined', () => {
+  it('should throw error when process.env.REDIS_DATABASE is undefined', () => {
     expect.assertions(2)
     try {
       require('../redis')
     } catch (e) {
       expect(e).toBeInstanceOf(Error)
-      expect(e.message).toEqual('Please set environment variable COURIERS_DATA_REDIS_DATABASE_NUMBER')
+      expect(e).toMatchSnapshot()
     }
   })
 
-  it('should throw error when process.env.COURIERS_DATA_REDIS_HOST is undefined', () => {
-    process.env.COURIERS_DATA_REDIS_DATABASE_NUMBER = 0
+  it('should throw error when process.env.REDIS_HOST is undefined', () => {
+    process.env.REDIS_DATABASE = 0
     expect.assertions(2)
     try {
       require('../redis')
     } catch (e) {
       expect(e).toBeInstanceOf(Error)
-      expect(e.message).toEqual('Please set environment variable COURIERS_DATA_REDIS_HOST')
+      expect(e).toMatchSnapshot()
     }
   })
 
-  it('should throw error when process.env.COURIERS_DATA_REDIS_PORT is undefined', () => {
-    process.env.COURIERS_DATA_REDIS_DATABASE_NUMBER = 0
-    process.env.COURIERS_DATA_REDIS_HOST = '127.0.0.1'
+  it('should throw error when process.env.REDIS_PORT is undefined', () => {
+    process.env.REDIS_DATABASE = 0
+    process.env.REDIS_HOST = '127.0.0.1'
     expect.assertions(2)
     try {
       require('../redis')
     } catch (e) {
       expect(e).toBeInstanceOf(Error)
-      expect(e.message).toEqual('Please set environment variable COURIERS_DATA_REDIS_PORT')
+      expect(e).toMatchSnapshot()
     }
   })
 })

@@ -1,0 +1,7 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`utils.redis should throw error when process.env.REDIS_DATABASE is undefined 1`] = `[Error: Please set environment variable REDIS_DATABASE]`;
+
+exports[`utils.redis should throw error when process.env.REDIS_HOST is undefined 1`] = `[Error: Please set environment variable REDIS_HOST]`;
+
+exports[`utils.redis should throw error when process.env.REDIS_PORT is undefined 1`] = `[Error: Please set environment variable REDIS_PORT]`;

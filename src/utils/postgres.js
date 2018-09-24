@@ -4,12 +4,32 @@ const { Client } = require('pg')
 const config = require('config')
 const logger = require('../utils/logger')
 
+if (!config.services.postgres.user) {
+  throw new Error('Please set environment variable POSTGRES_USER')
+}
+
+if (!config.services.postgres.password) {
+  throw new Error('Please set environment variable POSTGRES_PASSWORD')
+}
+
+if (!config.services.postgres.host) {
+  throw new Error('Please set environment variable POSTGRES_HOST')
+}
+
+if (!config.services.postgres.port) {
+  throw new Error('Please set environment variable POSTGRES_PORT')
+}
+
+if (!config.services.postgres.database) {
+  throw new Error('Please set environment variable POSTGRES_DATABASE')
+}
+
 const client = new Client({
   user: config.services.postgres.user,
-  host: config.services.postgres.host,
-  database: config.services.postgres.database,
   password: config.services.postgres.password,
-  port: config.services.postgres.port
+  host: config.services.postgres.host,
+  port: config.services.postgres.port,
+  database: config.services.postgres.database
 })
 
 client.connect()
