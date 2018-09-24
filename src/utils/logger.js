@@ -39,7 +39,7 @@ const logger = createLogger({
   level: config.logLevel,
   format: combine(
     winston.format.colorize(),
-    timestamp({ format: 'YYYY-MM-DD HH:ss:mm' }),
+    timestamp({ format: 'YYYY-MM-DD HH:mm:ss' }),
     myFormat
   ),
   transports: [new transports.Console()]
