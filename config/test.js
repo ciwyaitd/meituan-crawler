@@ -1,23 +1,22 @@
 'use strict'
 
-const env = process.env
 const { name } = require('../package.json')
 
 module.exports = {
   app: `test_${name}`,
-  logLevel: 'info',
+  logLevel: 'debug',
   services: {
     redis: {
-      db: env.REDIS_DATABASE,
-      host: env.REDIS_HOST,
-      port: env.REDIS_PORT
+      db: 1,
+      host: 'localhost',
+      port: 6379
     },
     postgres: {
-      user: env.POSTGRES_USER,
-      host: env.POSTGRES_HOST,
-      database: env.POSTGRES_DATABASE,
-      password: env.POSTGRES_PASSWORD,
-      port: env.POSTGRES_PORT
+      user: 'postgres',
+      host: 'localhost',
+      database: 'test_food_express',
+      password: '123456',
+      port: 5432
     }
   }
 }
