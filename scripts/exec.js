@@ -28,7 +28,7 @@ async function exec () {
   // switch database
   client = new Client({
     ...pgConfig,
-    database: 'food_express'
+    database: config.services.postgres.database
   })
   client.connect()
 
@@ -46,7 +46,7 @@ async function exec () {
   // switch database
   client = new Client({
     ...pgConfig,
-    database: 'test_food_express'
+    database: config.services.postgres.testing_database
   })
   client.connect()
 

@@ -4,9 +4,10 @@
   "description": "",
   "main": "app.js",
   "scripts": {
+    "services": "docker-compose -f stack.yml up",
     "script": "node scripts/exec.js",
-    "start": "node src/app.js",
-    "test": "jest"
+    "start": "NODE_ENV=development node src/app.js",
+    "test": "NODE_ENV=test jest"
   },
   "keywords": [],
   "author": "",
