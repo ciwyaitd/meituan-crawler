@@ -1,7 +1,11 @@
 'use strict'
 
 describe('utils.redis', () => {
+  beforeAll(() => {
+    process.env.NODE_ENV = 'production'
+  })
   beforeEach(() => jest.resetModules())
+
   it('should throw error when process.env.REDIS_DATABASE is undefined', () => {
     expect.assertions(2)
     try {

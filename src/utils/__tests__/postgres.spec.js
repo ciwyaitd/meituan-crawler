@@ -1,7 +1,11 @@
 'use strict'
 
 describe('utils.postgres', () => {
+  beforeAll(() => {
+    process.env.NODE_ENV = 'production'
+  })
   beforeEach(() => jest.resetModules())
+
   it('should throw error when process.env.POSTGRES_USER is undefined', () => {
     expect.assertions(2)
     try {

@@ -10,17 +10,18 @@ const redisConfig = {
   host: config.services.redis.host,
   port: config.services.redis.port
 }
+if (process.env.NODE_ENV === 'production') {
+  if (config.services.redis.db === undefined || config.services.redis.db === null) {
+    throw new Error('Please set environment variable REDIS_DATABASE')
+  }
 
-if (config.services.redis.db === undefined || config.services.redis.db === null) {
-  throw new Error('Please set environment variable REDIS_DATABASE')
-}
+  if (config.services.redis.host === undefined || config.services.redis.host === null) {
+    throw new Error('Please set environment variable REDIS_HOST')
+  }
 
-if (config.services.redis.host === undefined || config.services.redis.host === null) {
-  throw new Error('Please set environment variable REDIS_HOST')
-}
-
-if (config.services.redis.port === undefined || config.services.redis.port === null) {
-  throw new Error('Please set environment variable REDIS_PORT')
+  if (config.services.redis.port === undefined || config.services.redis.port === null) {
+    throw new Error('Please set environment variable REDIS_PORT')
+  }
 }
 
 let client = redis.createClient(redisConfig)
