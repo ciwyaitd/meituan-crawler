@@ -37,7 +37,7 @@ CREATE TABLE meituan (
   wifi boolean NOT NULL,
   allow_refund boolean NOT NULL,
   area_name varchar(36) NOT NULL,
-  open_info varchar(64) NOT NULL,
+  open_info varchar(128) NOT NULL,
   cate_name varchar(36) NOT NULL,
   created_at timestamptz NOT NULL DEFAULT NOW(),
   updated_at timestamptz NOT NULL DEFAULT NOW(),

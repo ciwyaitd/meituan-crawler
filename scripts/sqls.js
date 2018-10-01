@@ -15,5 +15,6 @@ function exportSQL (filename) {
 
 module.exports = {
   createDatabase: exportSQL('create_database.sql'),
+  createTestingDatabase: exportSQL('create_testing_database.sql'),
   createTable: exportSQL('create_table.sql')
 }

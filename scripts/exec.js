@@ -1,6 +1,6 @@
 'use strict'
 
-const { createDatabase, createTable } = require('./sqls')
+const { createDatabase, createTestingDatabase, createTable } = require('./sqls')
 const { Client } = require('pg')
 const config = require('config')
 const logger = require('../src/utils/logger')
@@ -19,18 +19,41 @@ async function exec () {
   })
   client.connect()
 
+  logger.info('-- Develpoment Environment --')
   // create database
-  await client.query(createDatabase).catch(err => logger.error(err.message))
+  await client.query(createDatabase)
+    .then(() => logger.info('-- created `food_express` --'))
+    .catch(err => logger.error(err.message))
 
   // switch database
   client = new Client({
     ...pgConfig,
-    database: config.services.postgres.database
+    database: 'food_express'
   })
   client.connect()
 
   // create table
-  await client.query(createTable).catch(err => logger.error(err.message))
+  await client.query(createTable)
+    .then(() => logger.info('-- created `meituan` --'))
+    .catch(err => logger.error(err.message))
+
+  logger.info('-- Testing Environment --')
+  // create database
+  await client.query(createTestingDatabase)
+    .then(() => logger.info('-- created `test_food_express` --'))
+    .catch(err => logger.error(err.message))
+
+  // switch database
+  client = new Client({
+    ...pgConfig,
+    database: 'test_food_express'
+  })
+  client.connect()
+
+  // create table
+  await client.query(createTable)
+    .then(() => logger.info('-- created `meituan` --'))
+    .catch(err => logger.error(err.message))
 
   logger.info('Finish')
   process.exit(0)
