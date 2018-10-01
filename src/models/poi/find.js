@@ -16,11 +16,7 @@ async function find (query) {
 
   try {
     const result = await pg.query(text, values)
-    if (result.rowCount > 0) {
-      logger.info(`[SQL] Found data - poi_id: ${query.poi_id}`)
-    } else {
-      logger.error(`[SQL] Found data - poi_id: ${query.poi_id} with err: Can't match conditions`)
-    }
+    logger.info(`[SQL] Found data - poi_id: ${query.poi_id} - rowCount: ${result.rowCount}`)
     return result.rows
   } catch (err) {
     logger.error(`[SQL] Found data - poi_id: ${query.poi_id} with err: ${err.message}`)
