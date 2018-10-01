@@ -92,11 +92,11 @@ async function create (poi) {
   try {
     const result = await pg.query(text, values)
     if (result.rowCount > 0) {
-      logger.info(`[poi] Created new data: ${result.rows[0].meituan_id}`)
+      logger.info(`[SQL] Created data - poi_id: ${poi.poi_id} successfully`)
     }
     return result.rowCount
   } catch (err) {
-    logger.error(`[poi] Created new data: ${err.message}`)
+    logger.error(`[SQL] Created data - poi_id: ${poi.poi_id} with err: ${err.message}`)
     return 0
   }
 }

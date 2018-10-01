@@ -1,0 +1,1199 @@
+{
+  "stid": "314312986244641202270846272121811199702",
+  "data": [
+    {
+      "poi": {
+        "phone": "010-89171717",
+        "latestWeekCoupon": 67,
+        "payInfo": {},
+        "cityId": 30,
+        "location": "",
+        "extCampaign": {},
+        "addr": "罗湖区金稻田路边防布心住宅区A座3号4号商铺（近金稻田路公交站）",
+        "ktvAppointStatus": 0,
+        "brandName": "",
+        "brandId": 0,
+        "isSuperVoucher": 0,
+        "poiid": "618024",
+        "groupInfo": 3,
+        "showType": "food",
+        "bizloginid": 1,
+        "parkingInfo": "免费停车",
+        "brandLogo": "",
+        "adsInfo": {
+          "adType": 0
+        },
+        "extra": {
+          "icons": []
+        },
+        "preTags": [],
+        "recommendation": {
+          "content": "",
+          "tagId": -1
+        },
+        "isSnack": false,
+        "discount": "3.5折起",
+        "frontImg": "http://p1.meituan.net/w.h/mogu/a54db9587cc4501b09ab13dd53de8778305147.jpg",
+        "historyCouponCount": 887080,
+        "avgPrice": 45,
+        "floor": "",
+        "avgScore": 4.2,
+        "dayRoomSpan": 1,
+        "lowestPrice": 39.9,
+        "introduction": "在深圳、湖南拥有30多间BLISS CAKE幸福西饼直营店，产品质量有目共睹。以新鲜制作为品牌核心竞争力，不断创新，品种繁多，各具风味，深深地融入每个顾客心中。用心去感受顾客的需求，为消费者生产出健康、安全、绿色的烘焙食品，让更多普通消费者享受高品质的烘焙食品。",
+        "isExclusive": false,
+        "payAbstracts": [
+          {
+            "abstract": "花样果果（中盒）39.9元，半熟芝士49元，花样果果（大盒）59.9元，芒果拿破仑89元，雪顶榴心99元，鲜芒九方99元，99元蛋糕2选1，129元蛋糕3选1，129元蛋糕2选1，伊丽斯的花园129元，129元蛋糕3选1，148元蛋糕2选1，花海159元，178元蛋糕4选1，178元蛋糕4选1，178元蛋糕4选1，178元蛋糕4选1，榴恋草莓蛋糕178元，四重奏蛋糕188元，188元蛋糕2选1，1...",
+            "icon_url": "http://p1.meituan.net/tuanpic/group_ia_tuan_01.png",
+            "type": "group"
+          }
+        ],
+        "markNumbers": 174855,
+        "lng": 114.133347,
+        "areaId": 29,
+        "subwayStationId": "711,",
+        "preferent": false,
+        "campaignTag": "多优惠+",
+        "isSupportAppointment": false,
+        "referencePrice": 0,
+        "style": "随便吃吃",
+        "featureMenus": "榴莲,芒果,榴莲蛋糕,幸福西饼,吃,榴芒,好,提拉米苏,榴茫双拼,蛋糕四重奏,榴芒蛋糕,榴芒雙拼,芒果蛋糕,一个,芒果慕斯,很好吃,榴莲双拼,芒果茫茫,刀叉,榴芒双拼,新鲜,好好,黑森林蛋糕,质量,白巧克力,四重奏蛋糕,榴莲飘香,很新鲜,双拼蛋糕,心花怒放蛋糕,味道很好,水果蛋糕,奶油蛋糕,芒果拿破仑,磅蛋糕,慕斯,挺好,蛋糕胚,茫茫,蛋糕很漂亮,外包装,榴蓮,工具,4,差,挺好的,芒果千层心蛋糕,芝士蛋糕,芒榴双拼,心花怒放,轻芝士蛋糕,巧克力,蛋糕榴莲,榴莲芒果味,榴莲口味蛋糕,幸福蛋糕,芒果草莓蛋糕,超值,苏格兰榛子,提拉米苏蛋糕,太棒了,芒果千层糕,鲜果嘉年华,千层榴莲饼,蓝莓蛋糕,芒果芒芒慕斯,小蛋糕,好看好吃,老婆饼,巧克力的诱惑,榴莲慕斯蛋糕,蛋挞,good,拿破仑蛋糕,好好的,巧克力牌,猫山王,千层榴莲,蓝莓芝士蛋糕,芒果慕丝,栗子慕斯,草莓慕斯,黑白之恋,芒果栗子蓉,3榴芒双拼,美丽,蛋糕不错,蛋糕可以,举个粟子,可可粉,芒果多,招牌榴莲,榴莲香雪,包装不错,造型好看,新鲜美味,白天使蛋糕,雪顶榴心蛋糕,芒果拿破仑蛋糕,慕斯芒果,草莓多多,四味,巧克力拿破仑,特色,豆浆,粟子蛋糕,小乳酪球,草莓榴莲,榴莲千层酥,榴芒蛋糕慕斯蛋糕,刀叉蜡烛,冰激凌,榴莲雪糕,草莓黑森林蛋糕,草莓夹心,小块蛋糕,水果生日蛋糕,冰激凌栗子蓉,创意蛋糕,榴莲酥,榴莲千层饼,草莓白天使,芒果栗心,轻芝士,蓝莓慕斯,榴莲双芒,芒果芒,拿破仑,提拉米苏黑森林,芒果口味蛋糕,榛子蛋糕,私房蛋糕,黑森林慕斯,果肉蛋糕,水果双拼,饼干,鲜果嘉年华蛋糕,饼皮,榴莲千层榴莲,榴莲芝士蛋糕,8寸蛋糕,纽约芝士,坚果蛋糕,榴恋蛋糕,英式下午茶B款,板栗蛋糕,榴莲马卡龙蛋糕,芒果多多,咖喱牛腩饭,绿豆饼,奶油生日蛋糕,两情相悦,黑白恋曲,馏芒蛋糕,榴莲超级好吃。,实品,G00d,日式芝士蛋糕,蛋糕外包装,榴莲味的比芒果味的做的正,幸福糖,榛子薄脆,榴莲完胜芒果,开箱就败,量多,朱古力卷,草莓黑天使,芒果布丁,芒果奥利奥,很好吃的哦,金牌水果,芒果拼榴莲,蛋糕水果,火龙果,儿童蛋糕,招牌蛋糕,毛毛虫面包,蓝莓夹心,芒果干层,魔方蛋糕,提拉米苏咖啡,苏格兰榛子蛋糕,水果茶,坚果巧克力,雪顶蛋糕,榴莲糕,桃李满天下,榴莲拼提拉米苏,原味蛋糕,提拉米苏慕斯,鲜芒果蛋糕,冰淇淋蛋糕,芒果卷寿司,乳鸽,花之恋寿司,烧鹅,蟹仔寿司,森林果王,长寿面,下午茶拼盘,芒果班戟,芒果慕斯提拉米苏,红豆沙,草莓双拼,香醇咖啡,红烧肉,榴莲饼,布丁冰淇淋,鱿鱼须,鸡公煲,糖油粑粑,蒸排骨,榛子巧克力蛋糕,草莓酸奶,炒米粉,黑森林提拉米苏,千层芒果蛋糕,榴莲干层,芒果草莓双拼,猪肚鸡,配酒,三文鱼刺身,芒果芒果,草莓巧克力,棒棒糖,榴茫双拼榴莲双拼,普通面包,枣泥糕,臻子蛋糕,雪顶榴莲,龙珠双盒,多层蛋糕,水果慕斯蛋,千层蛋糕,牛轧糖,重芝士,葱油鸡,榴茫,水果奶油蛋糕,巧克力威化,缪氏红焖鱼,车厘子,榴莲巧克力蛋糕,提拉米苏榴芒蛋糕,蓝莓巧克力,生日面,四重奏慕斯蛋糕,蛋,四种混合,芒果沙滩,腰果曲奇,夏威夷果曲奇,许愿,咖啡慕斯,幸福冰芝士,手撕微波包,北海道吐司,幸福礼幸福蛋黄白莲蓉,榴芒雙拼h,招牌轻芝士,火山黑森林,味道很好，准时送过来，不错。,芒果雪沙,浓味芝士蛋糕,四种口味的，都挺好吃的。,好香的芒果,迷彩冰芝月饼,金罐曲奇,凤梨酥,黄色糕体不知道什么做的,巧克力牌融了都,帕玛森芝士,颜色好漂亮,蛋糕好吃   大家都喜欢,蛋糕图片,特别的美味！,！,美观好吃,日式芝士,樱桃芝士慕斯,蛋糕巧克力加马卡龙,好吃不是第一次了！,香雪茫茫,好漂酿的打火机,芒果蛋糕，很新鲜,核桃酥,铁板烧,香妃椰奶,很喜欢。儿子很喜欢吃,送了花，餐具好。,不错的俄，,雪山栗园,完全变形了,制作工艺精美，口感很好！,。。。蛋糕,真的不错！,榴莲芒返双拼,蛋糕奶茶,梳芒双拼,桂圆稣,榴莲、芒果双拼,半整体,榴恋草莓,同上,光盘,流口水了吧,水果布丁,六件套,超级芒果蛋糕,大盆花菜,榴芒慕絲,榴芒二重奏,怀旧炒粉,我的女儿,我大儿子,水果罐头,皇冠蛋糕,草莓果酱,羊肉串,圣诞节蛋糕,冰淇淋,巧克力新地,新榴芒双拼,巧克力黑森林,草莓黑森林,麻辣香锅,榴莲干,黑咖啡,白巧克力卷,甜心草莓派,核桃斯诺,午茶时光,特色蛋糕,纯巧克力,鲜榨果汁,十寸蛋糕,面包底,忌廉蛋糕,榴莲布丁,日本豆腐,菠萝蛋糕,咖啡慕斯蛋糕,抹茶拿破仑,酥皮包,芒果冰淇淋,纯牛奶,榴莲香草,巧克力味蛋糕,拿破仑酥,冰激淋蛋糕,爆米花,冰激凌蛋糕,西瓜汁,金桔柠檬,爱尔兰百利甜,小章鱼,花生米,自制冰激凌,萝卜白菜,巧克力口味蛋糕,手指饼,美食咖啡,老式蛋糕,榴莲披萨,百利甜情人,情深似海,鸡蛋糕,抹茶千层,水果草莓,牛肉粒,鲜奶蛋糕,芒果汁,手抓饼,大披萨,芒果爽,奶油冰淇淋,卡通生日蛋糕,巧克力华夫饼,海绵蛋糕,芒果巧克力提拉米苏,巧克力酱,芒果味冰淇淋蛋糕,蓝莓果酱,酸奶优格,马卡龙饼干,早生贵子,巧克力奶油,卡通系列,白葡萄酒,小面包,芒果生日蛋糕,星座蛋糕,绵绵冰,一小块蛋糕,蛋糕皮,榴莲往返,圣女果,哈根达斯冰淇淋,小点心,三角披萨,芝士榴莲,情迷黑森林,曲奇饼干,mini蛋糕,蓝莓酱,黑森林巧克力,奇异果,巧克力饼干,磅蛋糕卷,三明治,榴莲双拼慕斯蛋糕,树莓优格慕斯,魔鬼的诱惑,榴莲班戟,芒果酸奶雪糕,榴莲千层+芒果拿破仑,巴西咖啡,原味珍珠奶茶,疯狂烤翅,面包糕,绿豆沙,奶油水果蛋糕,芒榴双拼蛋糕,芝士榴莲蛋糕,榴莲蛋糕榴莲满满,芒果提拉米苏,水果夹心,土豆泥,白巧克力蛋糕,海盐脆脆,芭比公主,全心全意,银耳莲子汤,盛夏光年,奶油慕斯,鹏程万里,盛放鲜果,老鼠爱大米,天使蛋糕,小糕点,榴莲千层+芒果千层,牛奶片,卡布其诺,巧克力榛果,水果拼盘,步步高升,动物奶油蛋糕,水果夹心蛋糕,黑樱桃,黑森林樱桃,榴莲冰,芒果忌廉,欧式蛋糕,波萝包,浓情蜜意,5张女王蛋糕卡,猕猴桃,卡通蛋糕,西点蛋糕,巧克力蓝莓,裸蛋糕,芒果栗子蛋糕,大面包,芒果慕思,咖啡巧克力蛋糕,杯子蛋糕,花生酥,快乐时光,巧克力草莓,鲜草莓,抹茶慕斯,棉花糖,提拉米苏巧克力,巧克力饼,香草冰淇淋,戚风蛋糕,奶油酥,抹茶蜜豆,芒果雪糕,拿破仑饼,三层蛋糕胚,酸奶蛋糕,抹茶之森,紫薯布丁,芒果酸奶,巧克力慕斯,杏仁片,哈密瓜,芒果布丁蛋糕,单恋黑森林,烤肉比萨,千层蛋糕皮,提拉米酥,Tiramisu,绿茶奶盖",
+        "name": "幸福西饼生日蛋糕(布心店)",
+        "hourRoomSpan": 0,
+        "notice": "",
+        "lat": 22.583933,
+        "isWaimai": 1,
+        "ktvLowestPrice": -1,
+        "isHot": 0,
+        "mallId": 0,
+        "hasGroup": true,
+        "cates": "1,20557,20426,20097,21009,20639,20428,11,20625,20589",
+        "zlSourceType": -1,
+        "chooseSitting": false,
+        "isImax": false,
+        "wifi": true,
+        "ktv": {
+          "ktvPromotionMsg": "",
+          "ktvIUrl": "",
+          "ktvLowestPrice": -1,
+          "ktvIconURL": "",
+          "tips": "",
+          "ktvAppointStatus": 0,
+          "ktvAbstracts": []
+        },
+        "abstracts": {
+          "group": "花样果果（中盒）39.9元，半熟芝士49元，花样果果（大盒）59.9元，芒果拿破仑89元，雪顶榴心99元，鲜芒九方99元，99元蛋糕2选1，129元蛋糕3选1，129元蛋糕2选1，伊丽斯的花园129元，129元蛋糕3选1，148元蛋糕2选1，花海159元，178元蛋糕4选1，178元蛋糕4选1，178元蛋糕4选1，178元蛋糕4选1，榴恋草莓蛋糕178元，四重奏蛋糕188元，188元蛋糕2选1，1...",
+          "coupon": ""
+        },
+        "allowRefund": 0,
+        "areaName": "布心/太白路",
+        "iUrl": "",
+        "openInfo": "周一至周日\n全天",
+        "isQueuing": 0,
+        "tour": {
+          "tourPlaceName": "",
+          "tourInfo": "",
+          "tourDetailDesc": "",
+          "tourOpenTime": "",
+          "tourMarketPrice": -1,
+          "tourPlaceStar": ""
+        },
+        "channel": "",
+        "cateId": -9999,
+        "hallTypes": [],
+        "cateName": "蛋糕"
+      }
+    },
+    {
+      "poi": {
+        "phone": "0755-83563781/83563782",
+        "latestWeekCoupon": 797,
+        "payInfo": {},
+        "cityId": 30,
+        "location": "",
+        "extCampaign": {},
+        "addr": "福田区深南大道泰然九路车公庙泰安轩B座首层（平安银行旁）",
+        "ktvAppointStatus": 0,
+        "brandName": "新梅园",
+        "brandId": 29913,
+        "isSuperVoucher": 0,
+        "poiid": "592369",
+        "groupInfo": 3,
+        "showType": "food",
+        "bizloginid": 1,
+        "parkingInfo": "团购消费，停车费自理",
+        "brandLogo": "",
+        "adsInfo": {
+          "adType": 0
+        },
+        "extra": {
+          "icons": []
+        },
+        "preTags": [],
+        "recommendation": {
+          "content": "",
+          "tagId": -1
+        },
+        "isSnack": false,
+        "discount": "2.9折起",
+        "frontImg": "http://p0.meituan.net/w.h/deal/b068577a99cbb043b29d936648c10867330799.jpg",
+        "historyCouponCount": 635417,
+        "avgPrice": 30,
+        "floor": "",
+        "avgScore": 4.1,
+        "dayRoomSpan": 1,
+        "lowestPrice": 35.8,
+        "introduction": "“潮汕”风格的酒楼。规模“不小”，装饰得“蛮有格调”，初次去会微微“震撼”一下；包房数量“很多”，请客吃饭“很上档次”。菜肴种类“齐全”，海鲜选料“新鲜”，粤菜制作“精良”，味道都还“不错”，属于“中上水平”。价格“贵了点”，自己贴钱会很心疼。生意一直“火爆”，服务员有些“照顾不过来”。 P.S.可办婚宴。",
+        "isExclusive": false,
+        "payAbstracts": [
+          {
+            "abstract": "单人午/晚餐35.8元起",
+            "icon_url": "http://p1.meituan.net/tuanpic/group_ia_tuan_01.png",
+            "type": "group"
+          }
+        ],
+        "markNumbers": 28988,
+        "lng": 114.02471,
+        "areaId": 28,
+        "subwayStationId": "4157,725,4137,4095,4129,",
+        "preferent": false,
+        "campaignTag": "",
+        "isSupportAppointment": false,
+        "referencePrice": 0,
+        "style": "",
+        "featureMenus": "玉米汁,紫菜卷,糯米莲藕,芋头,红薯香芋糖水,炒河粉,春卷,煮腐竹,卤水豆腐,南瓜饼,凉拌海带丝,卤豆腐,凉拌豆腐皮,菠萝豆腐,蔬菜沙拉,青瓜汁,炸饺子,红腰豆焖鲍鱼仔,小点心,清水煮花生,招牌卤味拼盘,银耳红枣糖水,萝卜糕,凉瓜排骨汤,煎水豆腐,凉菜,凉拌海茸,西瓜汁,绿豆饼,饺子,红豆椰丝包,豉汁蒸多宝鱼,小糕点,凉拌荞麦面,茶,木耳,莲藕,雪梨银耳汤,豆腐,火龙果,黑米粥,玫瑰茶,素食火锅,芡实百合香芋煲,小土豆,芝麻饼,椒盐双菇,蒸土豆,素饺子,南瓜粥,素丸子,凉拌木耳,玉米煎餅,桃仁烩五彩,炒饭,腐竹凉菜,铁板黑椒杂菌,红烧素狮子球,蔬菜卷,小米粥,虫草花,糖藕,石锅蕨根粉,玫瑰花茶,小蛋糕,素饺,炸紫薯,茄子,火龙果西瓜,黄秋葵,千张,橙子,豆角莲藕,盘,玉米汁紫菜卷,芝士披萨,炒面,鸡蛋布丁,炸杏鲍菇,野生菌,寿司也挺好,汤菜,椰汁西米露,肉丸,酥饼,丸子,手工面,比萨寿司,杂粮包,红豆沙糯米糍,糖芋头,马蹄糕,板栗炖豆腐,黄瓜汁,小面包,生菜,米粉,红豆烙,菠菜汤,菌菇,咖喱锅,普洱茶,咖喱土豆,大杂烩,海底椰雪梨汤,麻辣锅底,菜粥,曲奇饼,南瓜糊,椰子,炖汤,冰淇淋,凉拌青瓜,银耳羹,炸茄盒,白灼芥蓝,干煸豆角,麻辣锅,南瓜球,清补凉汤,芋头糕,炒粉丝,炒米粉,年糕,银耳莲子汤,素汤,自助火锅,炸地瓜,煎鸡蛋,莲藕汤,豆腐泡,南瓜饼和玉米汁,面筋,火腿肠,银耳雪梨汤,玉米羹,桂花糖藕,东瓜,水饺,蜜红豆,麻辣火锅,绿豆汤玉米汁,茉莉花茶,汉堡包,虎皮青椒,麻婆豆腐,土豆片,土豆粉,面,海草,炒菜花,瓜子,百蔬争艳,玉米汁西瓜汁,肉丸子,罗汉果茶,水果蛋糕,粥品汤类,面包寿司,菜花,养生汤,鱼豆腐,香蕉,豆沙,油条,甜品水果,披萨饼,绿豆糕,素鸡,蔬菜汤,绿茶饼,蔬果沙拉,小米南瓜粥,米线,素肉丸,蛋餅披薩,芒果,菌姑锅,养生虫草花汤,湯,红茶,酸梅汁,炸薯条,护国菜,各种品类,马蹄糕，豆皮，豆腐,海带，豆皮，藕片,玉米汁，披萨,大杂绘,炸竽头,红烧狮子头,糯米饭,水果茶,杨枝甘露,葱油饼,菊花茶,卤鸡蛋,炒青菜,海鲜饭,前菜,红枣糕,曲奇饼干,小番茄,白粥,水晶糕,凉菜果汁,豆花,煎饺,炒面炒河粉,蛋饼,豆腐干,鲜榨果汁,咖喱炒饭,拉面,酸辣粉,香辣烤鱼,皇帝菜,孜然羊肉,酱骨架,手擀面,炸酱面,家常豆腐,骨头,南瓜汁,抹茶红豆,铁板（石锅）黑椒杂菌,素馅饺子,香辣秀珍菇,糖醋素排骨,豆豉蒸吉祥素鱼,椰香南瓜羹,凉拌面,窝笋",
+        "name": "新梅园圆通素食(泰然店)",
+        "hourRoomSpan": 0,
+        "notice": "",
+        "lat": 22.53403,
+        "isWaimai": 0,
+        "ktvLowestPrice": -1,
+        "isHot": 0,
+        "mallId": 0,
+        "hasGroup": true,
+        "cates": "1,20632,20557,20426,20560,20639,20633,217,24,20625,20427,20575",
+        "zlSourceType": -1,
+        "chooseSitting": false,
+        "isImax": false,
+        "wifi": true,
+        "ktv": {
+          "ktvPromotionMsg": "",
+          "ktvIUrl": "",
+          "ktvLowestPrice": -1,
+          "ktvIconURL": "",
+          "tips": "",
+          "ktvAppointStatus": 0,
+          "ktvAbstracts": []
+        },
+        "abstracts": {
+          "group": "单人午/晚餐35.8元起",
+          "coupon": ""
+        },
+        "allowRefund": 0,
+        "areaName": "车公庙",
+        "iUrl": "",
+        "openInfo": "周一至周日\n11:00-13:30\n17:30-20:00",
+        "isQueuing": 0,
+        "tour": {
+          "tourPlaceName": "",
+          "tourInfo": "",
+          "tourDetailDesc": "",
+          "tourOpenTime": "",
+          "tourMarketPrice": -1,
+          "tourPlaceStar": ""
+        },
+        "channel": "",
+        "cateId": -9999,
+        "hallTypes": [],
+        "cateName": "素食"
+      }
+    },
+    {
+      "poi": {
+        "phone": "0755-89829988",
+        "latestWeekCoupon": 1192,
+        "payInfo": {},
+        "cityId": 30,
+        "location": "",
+        "extCampaign": {},
+        "addr": "南山区深南大道9028号华侨城威尼斯酒店旁益田假日广场3层（1号线世界之窗站A出口）",
+        "ktvAppointStatus": 0,
+        "brandName": "四海一家",
+        "brandId": 28892,
+        "isSuperVoucher": 0,
+        "poiid": "1114721",
+        "groupInfo": 3,
+        "showType": "food",
+        "bizloginid": 1,
+        "parkingInfo": "停车位收费标准：消费满500元，可换取一张两小时的停车票",
+        "brandLogo": "http://p1.meituan.net/poi/56cca6470762163ca5baef6df4b3fa3654559.png",
+        "adsInfo": {
+          "adType": 0
+        },
+        "extra": {
+          "icons": []
+        },
+        "preTags": [],
+        "recommendation": {
+          "content": "",
+          "tagId": -1
+        },
+        "isSnack": false,
+        "discount": "9.1折起",
+        "frontImg": "http://p0.meituan.net/w.h/deal/__30274982__3375745.jpg",
+        "historyCouponCount": 289914,
+        "avgPrice": 176,
+        "floor": "3",
+        "avgScore": 3.4,
+        "dayRoomSpan": 1,
+        "lowestPrice": 163,
+        "introduction": "四海一家国际美食之都2005年成立于广州。以“集四海美食于一家”的饮食理念，云集星级中西厨师，接轨世界食尚风潮，制作超过20个系列数百款国际美 食。时至2014年，四海一家餐饮机构已成功开创“四海一家”、“四海一品”、“一方渔 家”、“四桂堡”、“四海马术”5个品牌，共10家分店，成为集艺术、时尚、文化 于一身的全国知名主题餐饮连锁企业。 四海一家深圳店位于深南大道益田假日广场，东临五星级威尼斯酒店、南接著名的世界之窗主题 公园、北倚欢乐谷主题乐园、西望两大国际标准高尔夫球场。店内拥有1000多个餐位，设有温馨浪漫的情侣就餐区、热闹欢庆的朋友相聚区、商务宴请的VIP 餐区、红酒美食品鉴区、公司PARTY聚餐区、婚宴喜庆区等，根据不同的需求还将做出相应布置的调整，用餐的同时感受到环境给予的美好记忆回味。",
+        "isExclusive": false,
+        "payAbstracts": [
+          {
+            "abstract": "单人午餐163元，单人晚餐183元",
+            "icon_url": "http://p1.meituan.net/tuanpic/group_ia_tuan_01.png",
+            "type": "group"
+          }
+        ],
+        "markNumbers": 15241,
+        "lng": 113.975796,
+        "areaId": 30,
+        "subwayStationId": "729,756,730,",
+        "preferent": false,
+        "campaignTag": "",
+        "isSupportAppointment": false,
+        "referencePrice": 0,
+        "style": "华贵高雅",
+        "featureMenus": "哈根达斯,三文鱼,菜品,菜,三文鱼刺身,酥皮汤,好,冰淇淋,烤生蚝,酥皮鱼翅汤,芝士蛋糕,牛排,牛扒,大蟹腿,北京烤鸭,自助,自制冰激凌哈根达斯,北极贝,虾蟹,鱼翅汤,四海一家,提拉米苏,甜点,羊排,红酒,鱼翅捞饭,啤酒鸡尾酒,雪糕,咖喱牛腩,面包汤,蟹腿,水果沙拉,长脚蟹,新鲜生蚝,哈根达斯雪糕,虾子,三文鱼刺身寿司,海鲜刺身,鱼汤,冬阴功汤,鱼生,烤蚝,煎牛扒,水果沙拉小份,濑尿虾,美味,鲍汁凤爪,八爪鱼,东阴功海鲜汤,冻虾,华夫饼,花甲,烧鹅,小蛋糕,叉烧,烧鸭,冰镇蟹腿,玫瑰花苹果,拉面,哈根達斯,茶点,菠萝,蟹肉棒,烧蚝,刺生,三文鱼生,帝王蟹脚,香辣蟹,大螃蟹腿,哈根达斯冰激凌,猪扒,意粉,猪脚姜醋,刺身三文鱼,咖喱鸡,三文魚,糕点,比萨,梅子酒,海螺肉,煎牛排,花蟹,汤面,芒果糯米饭,大海螺,凉拌白菜,日本清酒,牛排鸡排,碳烧生蚝,剁椒三文鱼头,意面,海鲜火锅,海鲜包,冷的,吞拿鱼塔,包子,鸡汤,烫粉,炸鸡块,吊烧鸡,云吞面,冬阴功海鲜汤,香芋西米露,小点,芒果布丁,酿皮,干蒸,哈根达斯榴莲,铁板烧牛肉,十三香小龙虾,鳗鱼寿司,牛肉粒,鸡尾酒畅饮,骨肉相连,芒果班戟,甜品拼盘,蟹腿肉,榴莲酥,排骨汤,炒海鲜,寿司卷,柠檬汁,大虾,雪蟹脚,海螺刺身,腊肠,蒜蓉生蚝,甜汤,牛肉面,煎羊排,菠萝包,浓汤,海鲜生蚝,炭烤生蚝,广东点心,巧克力蛋糕,煎饺,黑椒牛扒,椰子鸡汤,榴莲,煎鱼肉,剌身,榴莲雪糕,皇帝蟹,好难吃,芝士,面包汤～,大集合,一般，人太多，排队好辛苦,烤乳猪,虾天妇罗,臭的,粤士卤水,泡菜,白灼时蔬,果冻,文鱼哈根达斯,章鱼小丸子,海鲜刺身烧腊类,海皇汤烤肉类,咖喱烧烤类,寿司酒水类,优惠活动,四海一家东南亚美食节1,四海一家东南亚美食节2,四海一家东南亚美食节3,四海一家东南亚美食节4,四海一家东南亚美食节6,鲜虾烧卖,虾爬子,苹果汁,东南亚美食节,巧克力塔,进场流程,活动信息,烤串,鲷鱼,河粉,年糕,水煮鱼,乌冬面,羊肉串,骨架,红酒牛排,涮锅,螃蟹脚,牛扒烤生蚝,日料,奶茶,鱼肉,鲜榨果汁,意大利面,片皮烤鸭,小点心,牛羊肉,螃蟹腿肉,甜点小蛋糕,西瓜,老火汤,白斩鸡,三文鱼寿司,椰奶,铁板鱼,鸡脚,日式味增汤,猪肚鸡,牛扒哈根达斯,咖啡奶茶,红葡萄酒,希鲮鱼刺身,文鱼蟹脚,螃蟹腿,冰淇淋哈根达斯,水果饮料,铁板鱿鱼,皇帝菜,皇帝蟹腿,花茶,橙汁,海鲜酥皮汤,铁板牛肉,酸汤面,可口可乐,凉皮,面条,小米粥,骨头,酸奶,烤肉串,麻辣烫,草莓冰淇淋,烤羊肉,希鲮鱼,烤牛排,西瓜哈密瓜,圣女果,长脚蟹腿,碳烤生蚝,三文鱼腩,芒果西瓜,佛跳墙,羊扒,炭烧生蚝,牛扒鸡扒,咖喱牛肉,炒面炒饭",
+        "name": "四海一家(益田假日广场店)",
+        "hourRoomSpan": 0,
+        "notice": "",
+        "lat": 22.537337,
+        "isWaimai": 0,
+        "ktvLowestPrice": -1,
+        "isHot": 0,
+        "mallId": 599425,
+        "hasGroup": true,
+        "cates": "1,20632,20557,20426,20639,20633,40,20625,20427,20558",
+        "zlSourceType": -1,
+        "chooseSitting": false,
+        "isImax": false,
+        "wifi": true,
+        "ktv": {
+          "ktvPromotionMsg": "",
+          "ktvIUrl": "",
+          "ktvLowestPrice": -1,
+          "ktvIconURL": "",
+          "tips": "",
+          "ktvAppointStatus": 0,
+          "ktvAbstracts": []
+        },
+        "abstracts": {
+          "group": "单人午餐163元，单人晚餐183元",
+          "coupon": ""
+        },
+        "allowRefund": 0,
+        "areaName": "世界之窗",
+        "iUrl": "",
+        "openInfo": "周一至周日\n11:30-14:30\n17:30-21:30",
+        "isQueuing": 0,
+        "tour": {
+          "tourPlaceName": "",
+          "tourInfo": "",
+          "tourDetailDesc": "",
+          "tourOpenTime": "",
+          "tourMarketPrice": -1,
+          "tourPlaceStar": ""
+        },
+        "channel": "",
+        "cateId": -9999,
+        "hallTypes": [],
+        "cateName": "综合自助"
+      }
+    },
+    {
+      "poi": {
+        "phone": "0755-82682126",
+        "latestWeekCoupon": 1413,
+        "payInfo": {},
+        "cityId": 30,
+        "location": "",
+        "extCampaign": {},
+        "addr": "罗湖区东门印象城3楼（二横街韩国城Ucity对面）",
+        "ktvAppointStatus": 0,
+        "brandName": "",
+        "brandId": 0,
+        "isSuperVoucher": 0,
+        "poiid": "41833443",
+        "groupInfo": 3,
+        "showType": "food",
+        "bizloginid": 1,
+        "parkingInfo": "",
+        "brandLogo": "",
+        "adsInfo": {
+          "adType": 0
+        },
+        "extra": {
+          "icons": []
+        },
+        "preTags": [],
+        "recommendation": {
+          "content": "",
+          "tagId": -1
+        },
+        "isSnack": false,
+        "discount": "6.7折起",
+        "frontImg": "http://p0.meituan.net/w.h/deal/b6cdea94f95f3d1d1a93bf04236895c8268490.jpg",
+        "historyCouponCount": 275968,
+        "avgPrice": 46,
+        "floor": "3",
+        "avgScore": 3.2,
+        "dayRoomSpan": 1,
+        "lowestPrice": 52.8,
+        "introduction": "",
+        "isExclusive": false,
+        "payAbstracts": [
+          {
+            "abstract": "单人午餐52.8元，单人午/晚餐56.8元",
+            "icon_url": "http://p1.meituan.net/tuanpic/group_ia_tuan_01.png",
+            "type": "group"
+          }
+        ],
+        "markNumbers": 20561,
+        "lng": 114.12086,
+        "areaId": 29,
+        "subwayStationId": "799,717,798,771,716,4130,",
+        "preferent": false,
+        "campaignTag": "",
+        "isSupportAppointment": false,
+        "referencePrice": 0,
+        "style": "",
+        "featureMenus": "火锅烤肉,好,肥牛肥羊肉,蛋糕,海鲜,烤,牛羊肉,水果寿司,自助餐,小点心,寿司火锅烤肉,芒果布丁,清汤火锅,烤鱿鱼烤鸡翅,包子,蔬菜,火锅烤肉寿司,汤,鱼片,糯米鸡,濑尿虾,培根肉,鸳鸯锅底,小蛋糕,凉拌皮蛋,汤底,芒果榴莲蛋糕,培根烤肉,烤金针菇,北极贝,烤肉火锅,锅底,扇贝,烤牛肉,酸梅汁,水果果汁,赖尿虾,冷饮,蛋挞,糖醋排骨,甜筒冰淇淋,壽司,火腿,鸡蛋布丁,鱼肉,清汤锅,凉拌木耳,牛肉片,小布丁,九节虾,广式点心,寿司蛋糕,肉片,包,寿司饭,巧克力蛋糕,海带丝,烤培根,辣酱,奥尔良鸡肉,清汤锅底,早点,小笼包,小猪包,烧肉,加多宝,腊肠,涮菜,元贝,藕片,烧卖,鸡柳骨肉相连,烤肥牛,小扇贝,火锅汤,椰子汁,绿豆沙,葡萄酒,巧克力喷泉,王老吉,炸鸡,西瓜哈密瓜,花蟹,红烧排骨,鸡腿肉,肥羊肥牛,海鲜拼盘,饺子,小食,鸡翅中,鱼面,豆腐,鸡脆骨,调料区,贝壳类,橙子,虾 肉,骨肉相连,辣汤,苹果醋,青瓜,生鱼片,蛋糕寿司,生菜包,千层肚,铁板烧鸡,油条,紫菜包饭,煎鸡扒,老火汤,鸳鸯火锅,鱿鱼丝,炒金针菇,牛扒,可乐,铁板鸡排,凤爪,涮羊肉,巧克力酱,肉包,果冻,寿司丸子,寿司沙拉,牛肉羊肉,蒸蛋,猪扒,烤肉火锅寿司,巧克力塔,肉酱,巧克力,烤花蛤,麻辣锅底,牛五花肉,米饭,蓝莓汁,羊肉卷,扇贝、鱿鱼,肥牛卷,羊肉串,可以有,很丰富,涮品,鸡翼,糯米糍粑,沙白,肉类与寿司,芒果汁饮料,凉菜寿司,温馨蛋糕,墨鱼丸,鸡汤,凉粉,火锅，烤肉,超级推荐！凉粉很好吃！,肉，海鲜,小炒鸡,红烧牛肉丸子,包子饺子,馒头,麻辣烫咖啡奶茶,炒米粉,牛肉羊肉卷,布丁冰淇淋,炒面炒饭,鸳鸯汤锅,生菜包培根,沙拉,葡萄糖水,腌肉,肉丸火腿肠,牛肉卷羊肉卷,寿司冰淇淋,虾滑,甜筒,烤羊肉,可乐雪碧,肥牛肉,冬瓜茶,鹅肠,水果蔬菜沙拉,青岛啤酒,椰汁,甜点布丁,水煮鱼,寿司凉菜,烤秋刀鱼,香芋地瓜丸,凉菜麻辣烫,小番茄,狮子头,面条,泡椒凤爪,豆奶茶,水果蛋糕冰激凌,羊肉片,鲜豆腐,豆奶,菊花茶冬瓜茶,牛肉片羊肉片,豆浆,年糕片,中翅,芋头片,鳕鱼片,寿司小蛋糕,锅巴,麻酱,大螃蟹,炸鸡块,肥羊卷,火龙果,虾子,北极贝寿司",
+        "name": "千滋百味自助烤肉火锅",
+        "hourRoomSpan": 0,
+        "notice": "",
+        "lat": 22.545649,
+        "isWaimai": 1,
+        "ktvLowestPrice": -1,
+        "isHot": 0,
+        "mallId": 52821604,
+        "hasGroup": true,
+        "cates": "1,20632,20557,20426,20639,20633,40,20625,20427,20558",
+        "zlSourceType": -1,
+        "chooseSitting": false,
+        "isImax": false,
+        "wifi": true,
+        "ktv": {
+          "ktvPromotionMsg": "",
+          "ktvIUrl": "",
+          "ktvLowestPrice": -1,
+          "ktvIconURL": "",
+          "tips": "",
+          "ktvAppointStatus": 0,
+          "ktvAbstracts": []
+        },
+        "abstracts": {
+          "group": "单人午餐52.8元，单人午/晚餐56.8元",
+          "coupon": ""
+        },
+        "allowRefund": 0,
+        "areaName": "东门",
+        "iUrl": "",
+        "openInfo": "周一至周日\n11:00-24:00\n\n非营业时段\n2018-02-15至2018-02-15 全天",
+        "isQueuing": 0,
+        "tour": {
+          "tourPlaceName": "",
+          "tourInfo": "",
+          "tourDetailDesc": "",
+          "tourOpenTime": "",
+          "tourMarketPrice": -1,
+          "tourPlaceStar": ""
+        },
+        "channel": "",
+        "cateId": -9999,
+        "hallTypes": [],
+        "cateName": "综合自助"
+      }
+    },
+    {
+      "poi": {
+        "phone": "0755-86223393",
+        "latestWeekCoupon": 629,
+        "payInfo": {},
+        "cityId": 30,
+        "location": "",
+        "extCampaign": {},
+        "addr": "南山区常兴路111号家乐福旁（荔香中学对面）",
+        "ktvAppointStatus": 0,
+        "brandName": "冠菌自助火锅",
+        "brandId": 1282893,
+        "isSuperVoucher": 0,
+        "poiid": "6479589",
+        "groupInfo": 3,
+        "showType": "food",
+        "bizloginid": 1,
+        "parkingInfo": "",
+        "brandLogo": "http://p0.meituan.net/poi/ff6634d514cdf4b24a21593ec53874d251326.png",
+        "adsInfo": {
+          "adType": 0
+        },
+        "extra": {
+          "icons": []
+        },
+        "preTags": [],
+        "recommendation": {
+          "content": "",
+          "tagId": -1
+        },
+        "isSnack": false,
+        "discount": "9.2折起",
+        "frontImg": "http://p0.meituan.net/w.h/mogu/94f298ee53a567fc1bb5eefb1e701abd25793.jpg",
+        "historyCouponCount": 197508,
+        "avgPrice": 57,
+        "floor": "",
+        "avgScore": 3,
+        "dayRoomSpan": 1,
+        "lowestPrice": 36,
+        "introduction": "",
+        "isExclusive": false,
+        "payAbstracts": [
+          {
+            "abstract": "其他36元，单人晚餐46元",
+            "icon_url": "http://p1.meituan.net/tuanpic/group_ia_tuan_01.png",
+            "type": "group"
+          }
+        ],
+        "markNumbers": 9544,
+        "lng": 113.92071,
+        "areaId": 30,
+        "subwayStationId": "733,734,4149,",
+        "preferent": false,
+        "campaignTag": "",
+        "isSupportAppointment": false,
+        "referencePrice": 0,
+        "style": "",
+        "featureMenus": "菜,环境,羊肉,大虾,肥牛,肥羊,汤底,牛百叶,牛羊肉,小点心,鱿鱼,蟹,炸腐竹,丸子,冰淇淋,雪糕,水鱼,蛤蜊,菌菇,肥牛卷,猪脑,鸡肉,鹅肠,饮品,骨汤,麻辣锅底,鲜肥牛,竹节虾,牛肉片,牛肉卷,濑尿虾,冰激凌,花甲肉,小虾,圣女果,鸡柳,鳝鱼泥鳅,凉菜海带丝,虾子,免费饮料,毛肚,布丁,西红柿,涮菜,麻辣烫,龙虾,冻蟹,寿司,薯条,龙利鱼,油条,加多宝,柠檬汁,肥牛卷羊肉卷,可口可乐,骨头汤,鸳鸯火锅底,油碟,肉,药材汤底,香瓜子,榴莲酥,涮锅,王老吉,泥鳅海鱼,香蕉,排骨汤锅底,小糕点,大骨汤,涮肉丸子,蛏子蚬子,骨头,肥牛羊肉,后腿肉,红汤锅底,椰子鸡,贝壳,菌锅,菌汤锅,例汤,菌汤火锅,菊花茶,麻辣火锅,牛肉卷羊肉卷,海鲜火锅,大螃蟹,生蚝肉,炒粉干,冻虾,辣汤,饺子,蘑菇汤,豆皮,油豆腐,金针菇,猪粉肠,米饭",
+        "name": "冠菌海鲜肥牛自助火锅(南头店)",
+        "hourRoomSpan": 0,
+        "notice": "",
+        "lat": 22.5306,
+        "isWaimai": 0,
+        "ktvLowestPrice": -1,
+        "isHot": 0,
+        "mallId": 0,
+        "hasGroup": true,
+        "cates": "1,20632,20557,20426,17,20639,20739,20633,20644,40,20625,20427,20558",
+        "zlSourceType": -1,
+        "chooseSitting": false,
+        "isImax": false,
+        "wifi": true,
+        "ktv": {
+          "ktvPromotionMsg": "",
+          "ktvIUrl": "",
+          "ktvLowestPrice": -1,
+          "ktvIconURL": "",
+          "tips": "",
+          "ktvAppointStatus": 0,
+          "ktvAbstracts": []
+        },
+        "abstracts": {
+          "group": "其他36元，单人晚餐46元",
+          "coupon": ""
+        },
+        "allowRefund": 0,
+        "areaName": "南山区",
+        "iUrl": "",
+        "openInfo": "周一至周日\n11:00-02:00",
+        "isQueuing": 0,
+        "tour": {
+          "tourPlaceName": "",
+          "tourInfo": "",
+          "tourDetailDesc": "",
+          "tourOpenTime": "",
+          "tourMarketPrice": -1,
+          "tourPlaceStar": ""
+        },
+        "channel": "",
+        "cateId": -9999,
+        "hallTypes": [],
+        "cateName": "火锅自助"
+      }
+    },
+    {
+      "poi": {
+        "phone": "0755-89204136",
+        "latestWeekCoupon": 408,
+        "payInfo": {},
+        "cityId": 30,
+        "location": "",
+        "extCampaign": {},
+        "addr": "龙岗区布吉街道吉华路吉华商务酒店3楼",
+        "ktvAppointStatus": 0,
+        "brandName": "",
+        "brandId": 0,
+        "isSuperVoucher": 0,
+        "poiid": "6099391",
+        "groupInfo": 3,
+        "showType": "food",
+        "bizloginid": 1,
+        "parkingInfo": "",
+        "brandLogo": "",
+        "adsInfo": {
+          "adType": 0
+        },
+        "extra": {
+          "icons": []
+        },
+        "preTags": [],
+        "recommendation": {
+          "content": "",
+          "tagId": -1
+        },
+        "isSnack": false,
+        "discount": "7.8折起",
+        "frontImg": "http://p1.meituan.net/w.h/deal/9ad094ee5774ad2e023e57511b519949136522.jpg",
+        "historyCouponCount": 191345,
+        "avgPrice": 53,
+        "floor": "",
+        "avgScore": 3,
+        "dayRoomSpan": 1,
+        "lowestPrice": 49.8,
+        "introduction": "佰味厨自助烤肉火锅连锁位于深圳东站西广场对面吉华商务酒店3楼，地理位置相当优越，大门口与深圳东站.地铁龙岗线（布吉站）.环中线（布吉站）仅100米，与布吉海关也仅几分钟车程，交通非常便利 佰味厨布吉店为深圳市佰味厨餐饮管理有限公司旗下全资直营旗舰店，公司致力于开发健康.休闲.时尚的知识餐饮品牌，店类以韩式烤肉.涮锅.寿司为三大主题产品，辅以精美小炒主食.小点心.凉菜.沙拉.水果.冷饮.冰淇淋.爆米花等百款精品佳肴，同时设有休闲候位区，免费提供茶水.水果.休闲小食品.电视.小型儿童娱乐区等设备设施为候位宾客提供休闲场地，让让等候的同时享受无限乐趣。餐厅设有大堂就餐区。观景就餐区。商务就餐区等适合各位宾客的就餐需求，与餐厅的主题\"开放式休闲自助餐\"相呼应，将成为布吉周边餐饮品牌的一颗新星！",
+        "isExclusive": false,
+        "payAbstracts": [
+          {
+            "abstract": "单人午餐49.8元，单人晚餐56.8元",
+            "icon_url": "http://p1.meituan.net/tuanpic/group_ia_tuan_01.png",
+            "type": "group"
+          }
+        ],
+        "markNumbers": 13330,
+        "lng": 114.117854,
+        "areaId": 33,
+        "subwayStationId": "804,709,708,",
+        "preferent": false,
+        "campaignTag": "",
+        "isSupportAppointment": false,
+        "referencePrice": 0,
+        "style": "",
+        "featureMenus": "虾,肥牛,鸡脆骨,西瓜,培根,生菜,烟熏肉,布丁,鱿鱼,三文鱼,海鲜,鸡肉,冰激凌,烤肉火锅,金针菇,鸳鸯锅,清汤锅底,烤翅,韩式泡菜,酸甜萝卜,蛋挞,雪糕,肉卷,牛肉羊肉,拌菜,烤培根,鲫鱼,鸳鸯火锅涮菜,肉丸子,烤肉类,牛羊肉片,鲜鱿鱼,牛肉丸子,小糕点,哈密瓜,肥牛肥羊,肥牛片,寿司雪糕,红酒,圣女果,酸梅汤,麻辣烫,蘸酱,麻辣汤底,脆皮肠,红烧肉,饺子,烤鱼,红枣糕,啤酒,柠檬汁,烤鸡肾,凉菜冰淇淋,生菜包,雪花扎啤,炒饭,黑椒牛肉,骨肉相连,椰汁,配料,小蛋糕,番薯,牛肋骨,面包,丸子,青菜,白蚬,炸馒头,虾、蟹,带杯菊花茶下火,百叶,酱骨架,面筋,麻辣锅底,爆米花,大虾,炸年糕,茼蒿,煲仔饭,例汤,冰激凌果汁,鱿鱼丝,奥尔良鸡肉,雪糕布丁,老火汤,可口可乐,火腿肠,鸳鸯火锅,毛肚,烤鸡腿,炸酱面,花甲,糖水,清菜,酒水,平菇,烤生蚝,橙汁,烤魚,苦瓜汤,烤玉米,金针菇卷,冷饮,牛肉丸,烤羊排,洋芋,烤肉，火锅,鸡鱼,。。。,肉酱,哈密瓜雪糕,榴莲披萨,凉茶,炒河粉,咖喱牛肉,培根和鱿鱼,奶茶可乐,菠萝,鲜虾,鱼肉,骨头,虾子,炖汤,鱿鱼和虾,蟹腿,生蚝扇贝,贝壳,炒米粉,沙白,粉丝,椰奶,薯条,牛扒,小螃蟹,小番茄,烤多春鱼,米饭,海草玉米,八爪鱼寿司,巧克力,火龙果,鸡腿肉",
+        "name": "佰味厨自助火锅烤肉寿司店",
+        "hourRoomSpan": 0,
+        "notice": "",
+        "lat": 22.602411,
+        "isWaimai": 0,
+        "ktvLowestPrice": -1,
+        "isHot": 0,
+        "mallId": 0,
+        "hasGroup": true,
+        "cates": "1,20632,20557,20426,20639,20633,40,20625,20427,20558",
+        "zlSourceType": -1,
+        "chooseSitting": false,
+        "isImax": false,
+        "wifi": true,
+        "ktv": {
+          "ktvPromotionMsg": "",
+          "ktvIUrl": "",
+          "ktvLowestPrice": -1,
+          "ktvIconURL": "",
+          "tips": "",
+          "ktvAppointStatus": 0,
+          "ktvAbstracts": []
+        },
+        "abstracts": {
+          "group": "单人午餐49.8元，单人晚餐56.8元",
+          "coupon": ""
+        },
+        "allowRefund": 0,
+        "areaName": "龙岗区",
+        "iUrl": "",
+        "openInfo": "周一至周日\n11:00-23:00",
+        "isQueuing": 0,
+        "tour": {
+          "tourPlaceName": "",
+          "tourInfo": "",
+          "tourDetailDesc": "",
+          "tourOpenTime": "",
+          "tourMarketPrice": -1,
+          "tourPlaceStar": ""
+        },
+        "channel": "",
+        "cateId": -9999,
+        "hallTypes": [],
+        "cateName": "自助餐"
+      }
+    },
+    {
+      "poi": {
+        "phone": "0755-86727780/86727960",
+        "latestWeekCoupon": 251,
+        "payInfo": {
+          "iUrl": "imeituan://www.meituan.com/web/?url=http://i.meituan.com/zpay/42710219",
+          "validity": 1,
+          "data": [
+            {
+              "endtime": 1540137599,
+              "rangetype": 2,
+              "jumpPayCode": false,
+              "begintime": 1441189675,
+              "hasrangenote": 0,
+              "dayrange": "",
+              "type": 0,
+              "specialdate": "",
+              "discount": "0-9.5",
+              "id": 21777,
+              "present": "",
+              "hourrange": "00:00-24:00",
+              "title": "9.5折",
+              "ratio": "9.5",
+              "ticket": "",
+              "sales": 22821,
+              "timetips": "（00:00-24:00）",
+              "sourcetype": 0
+            }
+          ]
+        },
+        "cityId": 30,
+        "location": "",
+        "extCampaign": {},
+        "addr": "南山区金鸡路1号田厦翡翠明珠1楼C5室（近圣淘沙酒店翡翠店）",
+        "ktvAppointStatus": 0,
+        "brandName": "同仁四季",
+        "brandId": 1863954,
+        "isSuperVoucher": 0,
+        "poiid": "42710219",
+        "groupInfo": 2,
+        "showType": "food",
+        "bizloginid": 1,
+        "parkingInfo": "有停车位",
+        "brandLogo": "http://p0.meituan.net/poi/482d41c76cc540173e90f751957f5eb7125467.png",
+        "adsInfo": {
+          "adType": 0
+        },
+        "extra": {
+          "icons": [
+            "http://p0.meituan.net/tuanpic/maidan.png"
+          ]
+        },
+        "preTags": [],
+        "recommendation": {
+          "content": "",
+          "tagId": -1
+        },
+        "isSnack": false,
+        "discount": "7.6折起",
+        "frontImg": "https://img.meituan.net/w.h/msmerchant/6566ca6ece08c7e4daaf1383a578c143138852.jpg",
+        "historyCouponCount": 190739,
+        "avgPrice": 90,
+        "floor": "",
+        "avgScore": 3.8,
+        "dayRoomSpan": 1,
+        "lowestPrice": 95,
+        "introduction": "",
+        "isExclusive": false,
+        "payAbstracts": [
+          {
+            "abstract": "9.5折（买单立享）",
+            "icon_url": "http://p0.meituan.net/tuanpic/discount.png",
+            "type": "promotions"
+          },
+          {
+            "abstract": "2-3人餐198元，4-6人餐298元，6-8人餐498元",
+            "icon_url": "http://p1.meituan.net/tuanpic/group_ia_tuan_01.png",
+            "type": "group"
+          },
+          {
+            "abstract": "95代100元",
+            "icon_url": "http://p1.meituan.net/tuanpic/group_ia_quan_01.png",
+            "type": "coupon"
+          }
+        ],
+        "markNumbers": 14693,
+        "lng": 113.922694,
+        "areaId": 30,
+        "subwayStationId": "733,734,",
+        "preferent": false,
+        "campaignTag": "",
+        "isSupportAppointment": false,
+        "referencePrice": 0,
+        "style": "",
+        "featureMenus": "椰子鸡,煲仔饭,腊味煲仔饭,鸡肉,原味椰子鸡,野生马蹄,竹笙椰子鸡,炸腐竹,凉拌牛肉,椰汁,牛筋丸,野生竹笙菌,竹笙,榴莲飞饼,青菜,普宁豆腐,竹笙鸡,优质肥牛,椰奶,烤豆皮,什菜,印度飞饼,墨鱼丸,奶冻,家乡炒米粉,椰子冻,水果茶,秘制鸭爪,潮州牛肉丸,冬瓜片,鲜豆皮,海南芋头,辣味煲仔饭,土豆,野生小马蹄,椰子鸡火锅,淮山药,椰子奶冻,凉拌鸡肾,凉拌菜,套餐鸡,手打鱼丸,水果沙拉,金针菇,鲜土豆片,烤鸡翅,山药卷,锅巴饭,椰子鸡好好,柠檬汁,炸腐皮,椰子鸡肉,腊肉煲仔饭,椰子煲鸡,竹笙菌椰子鸡,椰冻,烤茄子,烤中翅,香蕉煎饼,烧腊饭,鸡块,新鲜椰肉,砂锅饭,鸡脚,冻豆腐,秘制羊肉煲,菜品特色,椰奶冻,鲍汁烤生蚝,煲仔饭椰子鸡,沙姜猪手,原味鸡,凉菜,普宁豆干,夫妻肺片,山药,海南小马蹄,拼盘,椰子鸡煲,石锅饭,海南特色黑米饭,菠菜和牛肉丸,鸡肉煲汤,豆皮,响铃卷,红枣茶,猪肉丸,原味椰子鸡，腊味煲仔饭，蜜汁鸭,皖鱼片,陈皮鸡杂煲仔饭,竹荪菌,枸杞叶,橘子,蘸酱,涮菜,香芋,椰汁鸡煲,桂圆红枣茶,特色鸡,椰汁锅,乳鸽煲仔饭,炸香蕉,墨鱼饼,鹅火锅,鸡腿,柠檬红茶,脆鱼片,脆鱼,潮汕牛筋丸,鱼片,月饼,鱼面,长寿面,烤豆腐皮,大杂烩,鸽子,腊味煲仔飯,炒鸡,凉拌海带丝,榴莲千层饼,生菜,虾米饺,鱼皮饺,辣菜,蜜汁,凉拌海蜇头,蟹籽丸,凉皮,鸡蛋饼,竹荪椰子,虾滑,双皮奶,大煲仔饭,鱼滑,甲鱼,虾饺,煲仔饭炒鸡,椰子鸡皮,蒜蓉,鲜鸡,椰汁汤底,白菜,薄饼,炒面,马蹄莲,调料酱,粉丝,普洱,锅汤,小份鸡,椰汁鸡汤,酸奶,竹生椰子鸡,特色酱油,野生珍珠马蹄,排骨饭,烤青椒,泰式炸鸡块,牛肉和羊肉,台湾香肠,猪蹄,果汁,大麦茶,雪花牛肉,香肠,腊肠,椰子汁鸡肉火锅,椰子猪肚鸡,冰柠檬水,午餐肉,涮肉,腊肉饭",
+        "name": "同仁四季音乐主题餐厅(南山LOFT店)",
+        "hourRoomSpan": 0,
+        "notice": "",
+        "lat": 22.533411,
+        "isWaimai": 1,
+        "ktvLowestPrice": -1,
+        "isHot": 0,
+        "mallId": 0,
+        "hasGroup": true,
+        "cates": "1,20632,20557,20426,20560,17,20639,20633,20644,20068,20625,20427",
+        "zlSourceType": -1,
+        "chooseSitting": false,
+        "isImax": false,
+        "wifi": true,
+        "ktv": {
+          "ktvPromotionMsg": "",
+          "ktvIUrl": "",
+          "ktvLowestPrice": -1,
+          "ktvIconURL": "",
+          "tips": "",
+          "ktvAppointStatus": 0,
+          "ktvAbstracts": []
+        },
+        "abstracts": {
+          "group": "2-3人餐198元，4-6人餐298元，6-8人餐498元",
+          "coupon": "95代100元"
+        },
+        "allowRefund": 0,
+        "areaName": "南头",
+        "iUrl": "",
+        "openInfo": "周一至周日\n11:30-06:30\n\n非营业时段\n2018-02-15至2018-02-16 全天",
+        "isQueuing": 0,
+        "tour": {
+          "tourPlaceName": "",
+          "tourInfo": "",
+          "tourDetailDesc": "",
+          "tourOpenTime": "",
+          "tourMarketPrice": -1,
+          "tourPlaceStar": ""
+        },
+        "channel": "",
+        "cateId": -9999,
+        "hallTypes": [],
+        "cateName": "火锅"
+      }
+    },
+    {
+      "poi": {
+        "phone": "0755-26664819/86240218",
+        "latestWeekCoupon": 591,
+        "payInfo": {
+          "iUrl": "imeituan://www.meituan.com/web/?url=http://i.meituan.com/zpay/85723",
+          "validity": 1,
+          "data": [
+            {
+              "endtime": 1540310399,
+              "rangetype": 2,
+              "jumpPayCode": false,
+              "begintime": 1535077110,
+              "hasrangenote": 0,
+              "dayrange": "",
+              "type": 0,
+              "specialdate": "",
+              "discount": "0-9.6",
+              "id": 2176930,
+              "present": "",
+              "hourrange": "11:00-23:00",
+              "title": "9.6折",
+              "ratio": "9.6",
+              "ticket": "",
+              "sales": 20645,
+              "timetips": "（11:00-23:00）",
+              "sourcetype": 0
+            }
+          ]
+        },
+        "cityId": 30,
+        "location": "",
+        "extCampaign": {},
+        "addr": "南山区南山大道2068号南侨花园（桃园地铁站D出口，市六医院对面）",
+        "ktvAppointStatus": 0,
+        "brandName": "缪氏川菜",
+        "brandId": 27820,
+        "isSuperVoucher": 0,
+        "poiid": "85723",
+        "groupInfo": 2,
+        "showType": "food",
+        "bizloginid": 1,
+        "parkingInfo": "",
+        "brandLogo": "http://p0.meituan.net/poi/6631b43bf34cd877480b28031f1315c515150.png",
+        "adsInfo": {
+          "adType": 0
+        },
+        "extra": {
+          "icons": [
+            "http://p0.meituan.net/tuanpic/maidan.png"
+          ]
+        },
+        "preTags": [],
+        "recommendation": {
+          "content": "",
+          "tagId": -1
+        },
+        "isSnack": false,
+        "discount": "5折起",
+        "frontImg": "https://img.meituan.net/w.h/msmerchant/07fd72997f62c03e68d3711281c4de4e387315.jpg",
+        "historyCouponCount": 189806,
+        "avgPrice": 50,
+        "floor": "",
+        "avgScore": 3.9,
+        "dayRoomSpan": 1,
+        "lowestPrice": 50,
+        "introduction": "缪氏川菜为一大型老字号川菜连锁企业，其喜庆祥和的装修风格，是亲朋相聚的理想选择。 缪氏川菜的精髓在于传统与现实的结合，既有缪氏家传的制作手艺，又借鉴现代川菜的创新方法，缪氏的菜不仅可口好吃，而且在色泽及造型方面也有独到之处。",
+        "isExclusive": false,
+        "payAbstracts": [
+          {
+            "abstract": "9.6折（买单立享）",
+            "icon_url": "http://p0.meituan.net/tuanpic/discount.png",
+            "type": "promotions"
+          },
+          {
+            "abstract": "2-3人餐98元，5-6人餐241元，8-10人餐403元",
+            "icon_url": "http://p1.meituan.net/tuanpic/group_ia_tuan_01.png",
+            "type": "group"
+          },
+          {
+            "abstract": "50代100元，82代100元，480代600元",
+            "icon_url": "http://p1.meituan.net/tuanpic/group_ia_quan_01.png",
+            "type": "coupon"
+          }
+        ],
+        "markNumbers": 23548,
+        "lng": 113.925229,
+        "areaId": 30,
+        "subwayStationId": "733,4149,",
+        "preferent": false,
+        "campaignTag": "",
+        "isSupportAppointment": false,
+        "referencePrice": 0,
+        "style": "华贵高雅",
+        "featureMenus": "毛血旺,夫妻肺片,麻辣牛肉,虾,辣子鸡,铁板水晶粉,口水鸡,蟹黄豆腐,酸菜鱼,松鼠鱼,莲藕,担担面,罐罐菜,缪氏民间鱼,糍粑,鱼香肉丝,麻婆豆腐,茶,串串虾,巴蜀老坛子,上汤豆苗,竹篮串烧虾,棒棒虾,爽口小木耳,螺丝鸡,烧椒皮蛋,螺狮鸡,水煮牛肉,川北凉粉,水煮鱼,晾干白肉,江湖毛血旺,宫保鸡丁,茶树菇土鸡汤,滋味鸭掌粉丝煲,香甜糍粑,南瓜饼,凉粉,拆骨肉炖菜干,三鲜锅巴,竹笋烧牛腩,飘香鸭,功夫牛肉,绿茶香芋饼,干煸四季豆,铁板粉丝,松子鱼,峨眉腊肠,螺蛳鸡,干锅香辣田鸡,香肉爆水东芥菜,双椒苦瓜干,杂菌粉丝煲,牛肉,干锅肥肠,缪家罐罐菜,老坛酸菜鱼,传统毛血旺,豆香蟹黄豆腐,金银馒头,农家豆皮,狗爪豆窝窝头,甜豆牛柳,川西豆鼓爆腰花,川味草原肚,双色松鼠鱼,水蒸蛋,魔芋烧鸭,茄子,绿茶饼,肥肠,芋儿烧秧白,玉米龙骨老火例汤,锅巴藕丸,龙抄手,手撕炝包菜,泡菜,水晶粉,干锅胡萝卜,香蒜回锅肉,钵钵鸡,原味炖豆腐,竹燕窝炒土鸡蛋,粉蒸排骨,菌香粉丝煲,香锅花菜,风味鱼,四季豆,串烧虾,大盆湖乡莲藕,祖传红焖鱼,栗子鸡,凉拌黄瓜,串虾,晾衣白肉,乳瓜拌桃仁,碧绿莴笋丝,红油千层耳,川西豆豉爆腰花,松仁玉米,水煮江团,虎皮青椒,爆米花,干锅田鸡,缪家炒饭,水煮江团鱼,鸳鸯馒头,手撕包菜,铁板螺蛳鸡,拼图,螺肉鸡肉,炝炒包菜,御鼎馋嘴田鸡,竹篱飘香鸭,大盆湖香莲藕,豆豆糯香骨,粉丝,紫薯球,莴笋丝,板栗鸡,炒木耳,泡椒凤爪,蟹黃豆腐,蟹黄豆腐酸菜鱼,香甜糍粑（大）,东坡扣肘,干锅牛蛙,蒜泥白肉,石锅鲍鱼菇,香酥鸭,干锅苦瓜干,家乡茄干炒腊肉,老谭酸菜鱼,红烧,香薯辣子鸡,川西豆豉腰花,晾竿白肉,大盆莲藕,板栗炖鸡,古法黄骨鱼,茶油香肠丝,大头菜干煨腩肉,竹荪肉丸汤,咕噜肉,小炒家乡茄干,茶树菇鸡汤,川北凉皮,烧白,豆腐,藕丝炒肉,锅巴,猪舌,香辣虾,小面,肥肠煲,蛋炒饭,泡椒鸡脚,煎糍粑,蟹黄豆腐煲,皮蛋,虫草花鸭汤,梅菜扣肉,老坛酸菜鱼煲,粉蒸肉套餐,拌木耳,招牌鱼,芋儿豆苗汤,白灼菜心,酱肉蒸水蛋,干锅酱辣田鸡,拍黄瓜,韭香鸡蛋干,香蒜老腊肉,香薯粉蒸肉,虫草花老鸭汤,香锅胡萝卜,红焖肥肠,盐菜扣肉,洞洞笋烧肉,双色松子鱼,竹篱飘香鸡,辣子鸿,辣辣辣,粉条,筒筒笋烧肉,脆笋,板栗煨土鸡,米饭,抹茶香芋,凉拌木耳,串串香辣虾,海带丝,笋干牛肉,红汤锅盔,酸梅汁,双色松鼠鱼（整条）,麻辣香锅,大盆藕条,绿茶香芋饼（大）,油炸馒头蒜茸菜心,鸳鸯馒头（大）,大盆藕丝,清江鱼,水煮鱼片,大盘鱼,纸巾,米饭半窝,双色松鼠鱼（条）,清炒芥兰,烧汁茄盒,麻辣鸡丁,肥肠煲螺丝鸡,豆香蟹黄豆腐（大）,茶树菇土鸡汤（大）,豇豆蛋干丝,乡村绍子豆腐,老坛酸菜鱼（小),酸梅汤,竹燕窝炒鲜鸡蛋,烤羊腿,竹燕窝炒鸡蛋,川味凉粉,泡萝卜,经典毛血旺,雪梨汁,香甜糍粑（小）,大锅菜,原味豆腐,肘子肉,豆腐皮,干煸土豆丝,红糖锅盔,大碗米饭,鸭脖子,家乡茄干腊肉,草原鲜毛肚,干锅莲藕,凯里酸汤鱼,葫芦丝,小点心,秘制红烧鱼,老坛酸菜鱼（大）,糯香排骨,老坛菜,擔擔面,红烧肉,蒜泥黄瓜,干锅黄牛肉,片片鱼",
+        "name": "缪氏川菜(南山店)",
+        "hourRoomSpan": 0,
+        "notice": "",
+        "lat": 22.530237,
+        "isWaimai": 1,
+        "ktvLowestPrice": -1,
+        "isHot": 0,
+        "mallId": 0,
+        "hasGroup": true,
+        "cates": "1,20632,20557,20426,20560,509,20639,20698,20633,55,20068,20625,20427",
+        "zlSourceType": -1,
+        "chooseSitting": false,
+        "isImax": false,
+        "wifi": true,
+        "ktv": {
+          "ktvPromotionMsg": "",
+          "ktvIUrl": "",
+          "ktvLowestPrice": -1,
+          "ktvIconURL": "",
+          "tips": "",
+          "ktvAppointStatus": 0,
+          "ktvAbstracts": []
+        },
+        "abstracts": {
+          "group": "2-3人餐98元，5-6人餐241元，8-10人餐403元",
+          "coupon": "50代100元，82代100元，480代600元"
+        },
+        "allowRefund": 0,
+        "areaName": "南山中心区",
+        "iUrl": "",
+        "openInfo": "周一至周日\n11:00-22:30",
+        "isQueuing": 0,
+        "tour": {
+          "tourPlaceName": "",
+          "tourInfo": "",
+          "tourDetailDesc": "",
+          "tourOpenTime": "",
+          "tourMarketPrice": -1,
+          "tourPlaceStar": ""
+        },
+        "channel": "",
+        "cateId": -9999,
+        "hallTypes": [],
+        "cateName": "川菜"
+      }
+    },
+    {
+      "poi": {
+        "phone": "13714321917",
+        "latestWeekCoupon": 842,
+        "payInfo": {
+          "iUrl": "imeituan://www.meituan.com/web/?url=http://i.meituan.com/zpay/41447222",
+          "validity": 1,
+          "data": [
+            {
+              "endtime": 1539532799,
+              "rangetype": 2,
+              "jumpPayCode": false,
+              "begintime": 1453282415,
+              "hasrangenote": 0,
+              "dayrange": "",
+              "type": 0,
+              "specialdate": "",
+              "discount": "0-9",
+              "id": 567113,
+              "present": "",
+              "hourrange": "10:00-24:00",
+              "title": "9折",
+              "ratio": "9",
+              "ticket": "",
+              "sales": 551,
+              "timetips": "（10:00-24:00）",
+              "sourcetype": 0
+            }
+          ]
+        },
+        "cityId": 30,
+        "location": "",
+        "extCampaign": {},
+        "addr": "龙岗区华西街2号（双龙地铁站邮局旁边，野妹火锅斜对面，步行街入口绝味鸭脖正对面）",
+        "ktvAppointStatus": 0,
+        "brandName": "贡茶",
+        "brandId": 1019990,
+        "isSuperVoucher": 0,
+        "poiid": "41447222",
+        "groupInfo": 3,
+        "showType": "food",
+        "bizloginid": 1,
+        "parkingInfo": "",
+        "brandLogo": "http://p1.meituan.net/poi/deec3062675d1b5ce2c3a1aea556ed4597375.png",
+        "adsInfo": {
+          "adType": 0
+        },
+        "extra": {
+          "icons": [
+            "http://p0.meituan.net/tuanpic/maidan.png"
+          ]
+        },
+        "preTags": [],
+        "recommendation": {
+          "content": "",
+          "tagId": -1
+        },
+        "isSnack": false,
+        "discount": "6折起",
+        "frontImg": "https://img.meituan.net/w.h/msmerchant/60aad6e3f41cdd4fe7307055aeb89e63716513.png",
+        "historyCouponCount": 189451,
+        "avgPrice": 13,
+        "floor": "",
+        "avgScore": 3.8,
+        "dayRoomSpan": 1,
+        "lowestPrice": 9.9,
+        "introduction": "",
+        "isExclusive": false,
+        "payAbstracts": [
+          {
+            "abstract": "9折（买单立享）",
+            "icon_url": "http://p0.meituan.net/tuanpic/discount.png",
+            "type": "promotions"
+          },
+          {
+            "abstract": "9.9元单人饮品，11.9元特色饮品，12.9元新品特色，21.9元双人饮品",
+            "icon_url": "http://p1.meituan.net/tuanpic/group_ia_tuan_01.png",
+            "type": "group"
+          }
+        ],
+        "markNumbers": 14959,
+        "lng": 114.276139,
+        "areaId": 33,
+        "subwayStationId": "818,",
+        "preferent": false,
+        "campaignTag": "",
+        "isSupportAppointment": false,
+        "referencePrice": 0,
+        "style": "",
+        "featureMenus": "熊猫果茶,熊猫奶茶,茶,抹茶奶盖,招牌珍珠奶盖红茶,奶盖珍珠绿茶,很好,抹茶奶盖乌龙茶,抹茶奶盖乌龙,奶盖红茶,神仙奶茶,原味珍珠奶茶,御可金钻奶茶,抹茶珍珠奶盖绿,抹茶奶盖红/绿茶,原味奶盖,奶蓋茶,原味奶盖红茶,金桔柠檬汁,一颗柠檬茶,招牌盐酥鸡,金桔柠檬茶,珍珠奶茶大杯,招牌奶茶,御可金砖奶茶,抹茶珍珠奶盖乌龙茶,黑砖奶茶,芒果歐蕾,抹茶奶绿,抹茶奶盖乌龙奶茶,甜甜圈,炸鸡块,抹茶奶泡,布丁奶茶,奶盖奶茶,遇见奶茶,奶茶奶茶,盐酥鸡块,焦糖味爆米花,芝士丸子,芒果慕斯,香芋丸,奶盖抹茶乌龙茶,芦荟果粒,品牌奶茶,格雷三兄弟,巧克力布丁,红豆相思奶茶,抹茶奶茶乌龙茶,百香果,红茶抹茶奶盖,薯条,抹茶奶蓋烏龍,芒果寒天,奶蓋綠茶,芋圆,熊猫奶盖,奶盖格雷,抹茶盖奶,板栗饼,原味奶盖乌龙茶,就是珍珠奶茶,小苹果,巧克力,熊猫茶,酸辣粉,鸳鸯锅底,玉米,抹茶奶茶,烤鸡翅,抹茶珍珠奶盖红茶,一粒柠檬,热奶茶,香米抹茶红豆,芒果寒天绿,榴莲奶盖茶,经典奶茶,招牌奶盖茶,芝士球,抹茶奶盖红茶乌龙茶,焦糖红茶拿铁,原味奶盖绿,金钻洛神花",
+        "name": "贡茶(龙岗老街店)",
+        "hourRoomSpan": 0,
+        "notice": "",
+        "lat": 22.730421,
+        "isWaimai": 1,
+        "ktvLowestPrice": -1,
+        "isHot": 0,
+        "mallId": 0,
+        "hasGroup": true,
+        "cates": "1,20557,20426,20730,20639,21013,21014,20068,20571,20428,11,20625,20589",
+        "zlSourceType": -1,
+        "chooseSitting": false,
+        "isImax": false,
+        "wifi": true,
+        "ktv": {
+          "ktvPromotionMsg": "",
+          "ktvIUrl": "",
+          "ktvLowestPrice": -1,
+          "ktvIconURL": "",
+          "tips": "",
+          "ktvAppointStatus": 0,
+          "ktvAbstracts": []
+        },
+        "abstracts": {
+          "group": "9.9元单人饮品，11.9元特色饮品，12.9元新品特色，21.9元双人饮品",
+          "coupon": ""
+        },
+        "allowRefund": 0,
+        "areaName": "双龙",
+        "iUrl": "",
+        "openInfo": "周一至周日\n10:30-00:00",
+        "isQueuing": 0,
+        "tour": {
+          "tourPlaceName": "",
+          "tourInfo": "",
+          "tourDetailDesc": "",
+          "tourOpenTime": "",
+          "tourMarketPrice": -1,
+          "tourPlaceStar": ""
+        },
+        "channel": "",
+        "cateId": -9999,
+        "hallTypes": [],
+        "cateName": "奶茶/果汁"
+      }
+    },
+    {
+      "poi": {
+        "phone": "0755-29181223",
+        "latestWeekCoupon": 1046,
+        "payInfo": {},
+        "cityId": 30,
+        "location": "",
+        "extCampaign": {},
+        "addr": "龙华区龙华街道和平东路大润发商场4楼",
+        "ktvAppointStatus": 0,
+        "brandName": "汉阳廷韩式自助烤肉",
+        "brandId": 1769617,
+        "isSuperVoucher": 0,
+        "poiid": "6958300",
+        "groupInfo": 3,
+        "showType": "food",
+        "bizloginid": 1,
+        "parkingInfo": "免费停车",
+        "brandLogo": "http://p1.meituan.net/poi/5d42d739edc39c1d72984fbce0b69bce50846.png",
+        "adsInfo": {
+          "adType": 0
+        },
+        "extra": {
+          "icons": []
+        },
+        "preTags": [],
+        "recommendation": {
+          "content": "",
+          "tagId": -1
+        },
+        "isSnack": false,
+        "discount": "7折起",
+        "frontImg": "https://img.meituan.net/w.h/msmerchant/a0069b1feff756f82cc229aca6ae75a26933170.jpg",
+        "historyCouponCount": 186957,
+        "avgPrice": 47,
+        "floor": "4",
+        "avgScore": 3.6,
+        "dayRoomSpan": 1,
+        "lowestPrice": 55,
+        "introduction": "汉阳廷韩式自助烤肉/金山韩式自助烤肉 一家主要经营韩式烤肉和料理的餐饮店，店内装修以韩式风格为主，简约大方，温馨舒适。工作人员服务周到，贴心热情，要是您是不懂烧烤，工作人员会主动上来帮忙烤，并且耐心教会您烧烤要注意的地方。店家这种不受“烟熏火燎”的新食法广受顾客喜爱。",
+        "isExclusive": false,
+        "payAbstracts": [
+          {
+            "abstract": "其他55元，其他65元",
+            "icon_url": "http://p1.meituan.net/tuanpic/group_ia_tuan_01.png",
+            "type": "group"
+          }
+        ],
+        "markNumbers": 13720,
+        "lng": 114.03202,
+        "areaId": 9553,
+        "subwayStationId": "788,",
+        "preferent": false,
+        "campaignTag": "",
+        "isSupportAppointment": false,
+        "referencePrice": 0,
+        "style": "",
+        "featureMenus": "五花肉,肥牛,冰淇淋,这,培根,泡菜,鱿鱼,羊肉,烤培根,热狗,意面,甜品布丁,鲜牛肉,梅肉,猪颈肉,还不错,肉肉,烤五花肉,哈密瓜,一般,韩国泡菜,冰激凌,面,新鲜青枣,鲜虾,柠檬水,鱼肉,酱骨头,韩式烤肉,布丁,小肥牛,秋刀鱼,鸡柳,炒饭,酸梅汤,小点心,海鲜,烤鱼,龙利鱼,三文鱼骨,榴莲酥,肥牛肉,排骨汤,春卷,肉酱,生菜包肉,馒头,炒青菜,橘子,素菜,紫菜包饭,王老吉,牛肉羊肉,烤肉中,菜多,个人觉得羊肉卷不错,中翅,烤翅,地瓜丸子,饺子,肉丸子,猪扒,冰糖雪梨,柠檬汁,蒸玉米,肥牛卷,花甲,蔬菜培根,烤羊肉,凉拌木耳,羊羔肉,丸子,薯条,三文鱼排,鱼子寿司,糕点,面包,龙虾,土豆片,鸡扒,烤鱼棒,大排骨,披萨,沙拉,海藻,炒蚬子,粥,菜很丰盛,甜！！,铁板烧,芝士卷,炸虾,甜筒,乌鸡汤,酸奶,烤蔬菜,火龙果西瓜,圣女果,水晶包,猪五花,饮料自助,小鱼,鸭,羊肉片,包子,勇闯天涯,焖鲶鱼,三黄鸡锅,川北凉粉,香辣豆皮,可乐,炒面,可口可乐,鸡胸,自助菜,辣椒粉",
+        "name": "汉阳廷韩式自助烤肉(龙华店)",
+        "hourRoomSpan": 0,
+        "notice": "",
+        "lat": 22.6579,
+        "isWaimai": 0,
+        "ktvLowestPrice": -1,
+        "isHot": 0,
+        "mallId": 72042789,
+        "hasGroup": true,
+        "cates": "1,20632,20557,20426,20639,20633,54,40,20625,20427,20558",
+        "zlSourceType": -1,
+        "chooseSitting": false,
+        "isImax": false,
+        "wifi": true,
+        "ktv": {
+          "ktvPromotionMsg": "",
+          "ktvIUrl": "",
+          "ktvLowestPrice": -1,
+          "ktvIconURL": "",
+          "tips": "",
+          "ktvAppointStatus": 0,
+          "ktvAbstracts": []
+        },
+        "abstracts": {
+          "group": "其他55元，其他65元",
+          "coupon": ""
+        },
+        "allowRefund": 0,
+        "areaName": "龙华",
+        "iUrl": "",
+        "openInfo": "周一至周日\n11:00-22:00\n\n非营业时段\n2018-02-15至2018-02-15 全天",
+        "isQueuing": 0,
+        "tour": {
+          "tourPlaceName": "",
+          "tourInfo": "",
+          "tourDetailDesc": "",
+          "tourOpenTime": "",
+          "tourMarketPrice": -1,
+          "tourPlaceStar": ""
+        },
+        "channel": "",
+        "cateId": -9999,
+        "hallTypes": [],
+        "cateName": "烤肉自助"
+      }
+    }
+  ],
+  "server": {
+    "time": 1537780294
+  },
+  "ct_pois": [
+    {
+      "poiid": 618024,
+      "ct_poi": "030784027471734317894650562125698598968_a618024_c0_e12179361409032340292"
+    },
+    {
+      "poiid": 592369,
+      "ct_poi": "030784027471734317894650562125698598968_a592369_c1_e12179361409032340292"
+    },
+    {
+      "poiid": 1114721,
+      "ct_poi": "030784027471734317894650562125698598968_a1114721_c2_e12179361409032340292"
+    },
+    {
+      "poiid": 41833443,
+      "ct_poi": "030784027471734317894650562125698598968_a41833443_c3_e12179361409032340292"
+    },
+    {
+      "poiid": 6479589,
+      "ct_poi": "030784027471734317894650562125698598968_a6479589_c4_e12179361409032340292"
+    },
+    {
+      "poiid": 6099391,
+      "ct_poi": "030784027471734317894650562125698598968_a6099391_c5_e12179361409032340292"
+    },
+    {
+      "poiid": 42710219,
+      "ct_poi": "030784027471734317894650562125698598968_a42710219_c6_e12179361409032340292"
+    },
+    {
+      "poiid": 85723,
+      "ct_poi": "030784027471734317894650562125698598968_a85723_c7_e12179361409032340292"
+    },
+    {
+      "poiid": 41447222,
+      "ct_poi": "030784027471734317894650562125698598968_a41447222_c8_e12179361409032340292"
+    },
+    {
+      "poiid": 6958300,
+      "ct_poi": "030784027471734317894650562125698598968_a6958300_c9_e12179361409032340292"
+    }
+  ],
+  "paging": {
+    "count": 24686
+  }
+}
