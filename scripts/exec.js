@@ -22,7 +22,7 @@ async function exec () {
   logger.info('-- Develpoment Environment --')
   // create database
   await client.query(createDatabase)
-    .then(() => logger.info('-- created `food_express` --'))
+    .then(() => logger.info('-- created database --'))
     .catch(err => logger.error(err.message))
 
   // switch database
@@ -34,25 +34,25 @@ async function exec () {
 
   // create table
   await client.query(createTable)
-    .then(() => logger.info('-- created `meituan` --'))
+    .then(() => logger.info('-- created tables --'))
     .catch(err => logger.error(err.message))
 
   logger.info('-- Testing Environment --')
   // create database
   await client.query(createTestingDatabase)
-    .then(() => logger.info('-- created `test_food_express` --'))
+    .then(() => logger.info('-- created testing database --'))
     .catch(err => logger.error(err.message))
 
   // switch database
   client = new Client({
     ...pgConfig,
-    database: config.services.postgres.testing_database
+    database: config.services.postgres.test_database
   })
   client.connect()
 
   // create table
   await client.query(createTable)
-    .then(() => logger.info('-- created `meituan` --'))
+    .then(() => logger.info('-- created tables --'))
     .catch(err => logger.error(err.message))
 
   logger.info('Finish')
