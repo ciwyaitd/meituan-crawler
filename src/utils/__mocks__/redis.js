@@ -14,6 +14,8 @@ const hkeysAsync = jest.fn(promisify(client.hkeys).bind(client))
 const hdelAsync = jest.fn(promisify(client.hdel).bind(client))
 const hgetallAsync = jest.fn(promisify(client.hgetall).bind(client))
 const delAsync = jest.fn(promisify(client.del).bind(client))
+const saddAsync = promisify(client.sadd).bind(client)
+const sismenberAsync = promisify(client.sismember).bind(client)
 
 module.exports = {
   client,
@@ -25,5 +27,7 @@ module.exports = {
   hkeysAsync,
   hdelAsync,
   hgetallAsync,
-  delAsync
+  delAsync,
+  saddAsync,
+  sismenberAsync
 }

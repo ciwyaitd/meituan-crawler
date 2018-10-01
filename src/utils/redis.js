@@ -55,6 +55,8 @@ const hkeysAsync = promisify(client.hkeys).bind(client)
 const hgetallAsync = promisify(client.hgetall).bind(client)
 const hdelAsync = promisify(client.hdel).bind(client)
 const delAsync = promisify(client.del).bind(client)
+const saddAsync = promisify(client.sadd).bind(client)
+const sismenberAsync = promisify(client.sismember).bind(client)
 
 module.exports = {
   client,
@@ -66,5 +68,7 @@ module.exports = {
   hkeysAsync,
   hgetallAsync,
   hdelAsync,
-  delAsync
+  delAsync,
+  saddAsync,
+  sismenberAsync
 }
